@@ -7,7 +7,6 @@ about: >
 
 
 url: "https://vinitdemotest.github.io"
-baseurl: "/white-paper"
 markdown: kramdown
 highlighter: rouge
 
